@@ -70,7 +70,7 @@ Wir werden einen Führer haben, der den Go-Quellcode jedem vorstellt und die sch
 
 ## Unser Geist
 
-Open Source! Open Source! Open Source! (**nochmals gesagt und dreimal gesagt** :-) )
+Open Source! Open Source! Open Source! (**sondern, nochmals gesagt und dreimal gesagt** :-) )
 
 >Wir hoffen, dass sich alle Interessierten uns anschließen und dazu beitragen, "Studien zum Go in der Nacht" zu einer Open-Source-Community zu machen, von der alle profitieren können.
 
